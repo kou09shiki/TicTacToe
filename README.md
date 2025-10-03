@@ -25,7 +25,7 @@ Designed with a bubbly UI, hover effects, and playful animations for each click.
 
 ## Screenshots
 
-*(You can add screenshots of your game here)*
+
 <img width="480" height="489" alt="image" src="https://github.com/user-attachments/assets/89d5c966-e260-497e-bd4c-2c45c4bd80d8" />
 
 
