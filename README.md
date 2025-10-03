@@ -1,4 +1,4 @@
-# Bubbly Tic Tac Toe 🎉
+#  Tic Tac Toe 🎉
 
 A fun and colorful **Tic Tac Toe** game built with **Java Swing**.  
 Designed with a bubbly UI, hover effects, and playful animations for each click. Perfect for a small desktop game project or learning Java GUI development.
@@ -19,8 +19,7 @@ Designed with a bubbly UI, hover effects, and playful animations for each click.
 ## Screenshots
 
 *(You can add screenshots of your game here)*
-
----<img width="485" height="496" alt="image" src="https://github.com/user-attachments/assets/9ed20eb6-18e2-4a2f-8582-786076c9dfd2" />
+<img width="480" height="489" alt="image" src="https://github.com/user-attachments/assets/89d5c966-e260-497e-bd4c-2c45c4bd80d8" />
 
 
 ## How to Run
@@ -30,4 +29,4 @@ Designed with a bubbly UI, hover effects, and playful animations for each click.
 3. Compile the Java file:
 
 ```bash
-javac BubblyTicTacToe.java
+javac TicTacToe.java
