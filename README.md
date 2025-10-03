@@ -15,6 +15,13 @@ Designed with a bubbly UI, hover effects, and playful animations for each click.
 - Reset board automatically after a game ends.
 
 ---
+## Technologies Used
+
+- **Java** – Core programming language.
+- **Swing** – For GUI design and components.
+- **AWT** – Event handling and graphics.
+
+---
 
 ## Screenshots
 
